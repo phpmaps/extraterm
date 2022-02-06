@@ -6,6 +6,10 @@ Main website: [extraterm.org](https://extraterm.org)
 
 [![Build Status](https://dev.azure.com/simon0627/extraterm/_apis/build/status/sedwards2009.extraterm?branchName=master)](https://dev.azure.com/simon0627/extraterm/_build/latest?definitionId=1&branchName=master)
 
+# Development Setup
+[Development Guide](https://extraterm.org/development.html) for more*
+
+
 # About
 
 Extraterm is an open source project to build a terminal emulator and expand it with new features to support modern workflows and do more than just act like a glorified teletype.
